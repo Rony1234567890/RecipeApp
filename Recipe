@@ -1,0 +1,6 @@
+main.py: The main Python file that sets up the server and handles routing for the recipe application.
+templates/: A directory containing HTML templates for different pages of the recipe application (e.g., home, search, recipe details).
+static/: A directory containing CSS, JavaScript, and image files for styling and interactivity of the application.
+database.py: The Python file implementing database connection and queries for managing recipes and user data.
+models.py: The Python file defining the data models for recipes, users, and related entities.
+README.md: A readme file providing an overview of the recipe application, installation instructions, and usage guidelines.
